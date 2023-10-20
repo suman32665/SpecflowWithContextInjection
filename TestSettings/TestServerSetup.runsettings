@@ -1,0 +1,13 @@
+﻿<RunSettings>
+  <!--<TestRunParameters>
+    <Parameter name="browser" value="chrome" />
+    <Parameter name="url" value="https://parabank.parasoft.com/parabank/index.htm" />
+    <Parameter name="username" value="sumantest" />
+    <Parameter name="pw" value="passwordtest" />
+  </TestRunParameters>-->
+  <NUnit>
+    <TestOutputXml>C:\TestResult\XML</TestOutputXml>
+    <OutputXmlFolderMode>RelativeToResultDirectory</OutputXmlFolderMode>
+    <NewOutputXmlFileForEachRun>true</NewOutputXmlFileForEachRun>
+  </NUnit>
+</RunSettings>
